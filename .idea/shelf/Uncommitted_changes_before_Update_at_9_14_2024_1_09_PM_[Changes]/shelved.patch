@@ -1,0 +1,29 @@
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><resources>\r\n    <string name=\"app_name\">Facebook Client</string>\r\n    <string name=\"facebook_app_id\">1285479815773488</string>\r\n    <string name=\"fb_login_protocol_scheme\">fb1234</string>\r\n    <string name=\"facebook_client_token\">fab0c0845e97bf46fbf4189b75ae2f35</string>\r\n    <string name=\"homepage\">homepage</string>\r\n    <string name=\"friend_list\">friend_list</string>\r\n    <string name=\"video\">video</string>\r\n    <string name=\"notification\">notification</string>\r\n    <string name=\"profile\">profile</string>\r\n    <string name=\"search\">Search</string>\r\n    <string name=\"camera\">Camera</string>\r\n    <string name=\"messenger\">Messenger</string>\r\n    <string name=\"profile_image\">Profile Image</string>\r\n    <string name=\"user_name\">ICT GUY</string>\r\n    <string name=\"add_to_story\">+ Add to story</string>\r\n    <string name=\"edit_profile\">Edit Profile</string>\r\n    <string name=\"details\">Details</string>\r\n    <string name=\"others\">...</string>\r\n    <string name=\"details_study\">Study at USTH</string>\r\n    <string name=\"details_from\">From Hanoi</string>\r\n    <string name=\"details_live\">Lives in Hanoi</string>\r\n    <string name=\"details_relationship\">Single</string>\r\n    <string name=\"edit_public_details\">Edit public details</string>\r\n    <string name=\"Icon1\">Icon</string>\r\n    <string name=\"like_button_text\">like</string>\r\n    <string name=\"comment_button_text\">comment</string>\r\n    <string name=\"Emily\"><b>Emily</b> updated her cover photo </string>\r\n    <string name=\"time_counter_text\">3 mins ago</string>\r\n    <string name=\"like_number\">1B</string>\r\n    <string name=\"comment_number\">3.6B Comments</string>\r\n    <string name=\"Ronaldo\"><b>SIUUU Ronaldo</b> had a Photoshot session at <b>AL Nassr</b></string>\r\n    <string name=\"Notifications\"><b>Notifications</b></string>\r\n    <string name=\"New\"><b>New</b></string>\r\n    <string name=\"See_all\">See all</string>\r\n    <string name=\"Emily_send_friend_request\"><b>Emily </b>sent you a friend request.</string>\r\n    <string name=\"three_days_ago\">3 days ago</string>\r\n    <string name=\"fifteen_mutual_friends\">15 mutual friends</string>\r\n    <string name=\"Confirm\">Confirm</string>\r\n    <string name=\"Delete\">Delete</string>\r\n    <string name=\"Earlier\"><b>Earlier</b></string>\r\n    <!-- TODO: Remove or change this placeholder text -->\r\n    <string name=\"hello_blank_fragment\">Hello blank fragment</string>\r\n    <string name=\"Memory\">Memory</string>\r\n    <string name=\"clock\">clock</string>\r\n    <string name=\"setting\">\"setting \"</string>\r\n    <string name=\"arrow\">arrow\\n</string>\r\n    <string name=\"headpicture\">picture of memory</string>\r\n    <string name=\"note\">From the most recent memories to those long ago, we hope you enjoy looking back at your memories on Facebook</string>\r\n    <string name=\"ICT_guy\">ICT guy has updated his avatar</string>\r\n    <string name=\"year_time\">2 years ago</string>\r\n    <string name=\"like_score\">2B</string>\r\n    <string name=\"comment_score\">5B Comments</string>\r\n    <string name=\"Icon2\">Angry icon \\n</string>\r\n</resources>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/strings.xml b/app/src/main/res/values/strings.xml
+--- a/app/src/main/res/values/strings.xml	(revision 4132d0fc48b7e691fb4ae8caa7eecd43ff996de7)
++++ b/app/src/main/res/values/strings.xml	(date 1726294080059)
+@@ -41,14 +41,14 @@
+     <string name="Earlier"><b>Earlier</b></string>
+     <!-- TODO: Remove or change this placeholder text -->
+     <string name="hello_blank_fragment">Hello blank fragment</string>
+-    <string name="Memory">Memory</string>
++    <string name="Memory"><b>Memory</b></string>
+     <string name="clock">clock</string>
+     <string name="setting">"setting "</string>
+     <string name="arrow">arrow\n</string>
+     <string name="headpicture">picture of memory</string>
+-    <string name="note">From the most recent memories to those long ago, we hope you enjoy looking back at your memories on Facebook</string>
+-    <string name="ICT_guy">ICT guy has updated his avatar</string>
+-    <string name="year_time">2 years ago</string>
++    <string name="note"><b>From the most recent memories to those long ago, we hope you enjoy looking back at your memories on Facebook</b></string>
++    <string name="ICT_guy"><b>ICT guy</b> has updated his avatar</string>
++    <string name="year_time"><i>2 years ago</i></string>
+     <string name="like_score">2B</string>
+     <string name="comment_score">5B Comments</string>
+     <string name="Icon2">Angry icon \n</string>
